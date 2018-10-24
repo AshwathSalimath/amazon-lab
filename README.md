@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 TaxiLab
 ==============================
 
@@ -55,3 +56,7 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# amazon-lab
+Machine learning project at CeADAR based in Ireland.
+>>>>>>> 9868d8967b689119c673f485455ffda4cd1f8e25
